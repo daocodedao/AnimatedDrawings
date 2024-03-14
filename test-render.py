@@ -1,5 +1,2 @@
 from animated_drawings import render
-
-
-
-render.start('./examples/config/mvc/interactive_window_example.yaml')
+render.start('./examples/config/mvc/export_mp4_example.yaml')
